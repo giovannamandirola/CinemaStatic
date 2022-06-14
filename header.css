@@ -95,7 +95,9 @@ nav {
     padding: 2.5px;
 }
 
-
+#user-options ul li  a{
+    color: #ffffff;
+}
 
 #link-list {
     display: block;
@@ -114,7 +116,9 @@ nav {
     align-items: center;
     justify-content: space-around;
     font-size: 15px;
+
 }
+
 
 @media only screen and (max-width: 425px) {
 
